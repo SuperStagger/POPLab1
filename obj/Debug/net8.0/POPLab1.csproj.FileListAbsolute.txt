@@ -1,0 +1,14 @@
+D:\Visual Studio 2022\POPLab1\POPLab1\obj\Debug\net8.0\POPLab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2022\POPLab1\POPLab1\obj\Debug\net8.0\POPLab1.AssemblyInfoInputs.cache
+D:\Visual Studio 2022\POPLab1\POPLab1\obj\Debug\net8.0\POPLab1.AssemblyInfo.cs
+D:\Visual Studio 2022\POPLab1\POPLab1\obj\Debug\net8.0\POPLab1.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\POPLab1\POPLab1\bin\Debug\net8.0\POPLab1.exe
+D:\Visual Studio 2022\POPLab1\POPLab1\bin\Debug\net8.0\POPLab1.deps.json
+D:\Visual Studio 2022\POPLab1\POPLab1\bin\Debug\net8.0\POPLab1.runtimeconfig.json
+D:\Visual Studio 2022\POPLab1\POPLab1\bin\Debug\net8.0\POPLab1.dll
+D:\Visual Studio 2022\POPLab1\POPLab1\bin\Debug\net8.0\POPLab1.pdb
+D:\Visual Studio 2022\POPLab1\POPLab1\obj\Debug\net8.0\POPLab1.dll
+D:\Visual Studio 2022\POPLab1\POPLab1\obj\Debug\net8.0\refint\POPLab1.dll
+D:\Visual Studio 2022\POPLab1\POPLab1\obj\Debug\net8.0\POPLab1.pdb
+D:\Visual Studio 2022\POPLab1\POPLab1\obj\Debug\net8.0\POPLab1.genruntimeconfig.cache
+D:\Visual Studio 2022\POPLab1\POPLab1\obj\Debug\net8.0\ref\POPLab1.dll
